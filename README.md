@@ -2,5 +2,5 @@
 
 To-Do's
 
-- [x] ASD
-- [x] asd
+- [x] Kodlar Klasörlere Ayrıldı
+- [x] İsimler Düzeltildi
