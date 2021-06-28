@@ -1,4 +1,4 @@
-# new-introduction-to-deep-learning
+# Derin Öğrenme'ye Giriş
 
 To-Do's
 
