@@ -13,7 +13,7 @@ To-Do's
 - [Theory: Introduction to AI and Deep Learning]()
 
 ### Lesson 2
-- [Theory: Regression Math, Neural Networks and Their Math, Activation Functions and Algebra Math]()
+- Theory: Regression Math, Neural Networks and Their Math, Activation Functions and Algebra Math
 - [Hands-on: Building Neural Networks - Fahrenheit to Calculus Conversion] (https://github.com/gaih/new-introduction-to-deep-learning/blob/main/Day%202%20-%20Simple%20NN%20Math/Day2_Simple_NN_Math_Fahrenheit_Celcius_Conversion.ipynb)
 - [Hands-on: Building Neural Networks - Logical Gates] (https://github.com/gaih/new-introduction-to-deep-learning/blob/main/Day%202%20-%20Simple%20NN%20Math/Day2_Simple_NN_Math_Logical_Gates.ipynb)
 
