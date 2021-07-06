@@ -1,30 +1,63 @@
-# Derin Öğrenme'ye Giriş
+<div align="center">
+  <img src="https://github.com/gaih/introduction-to-deep-learning/raw/main/logo.png" height="200px">
+</div>
 
-To-Do's
+# Introduction to Deep Learning
+Although deep learning is a sub-branch of machine learning, it has become a profession and a field of expertise today. This is because it performs much better than conventional machine learning techniques, especially in Image processing and Natural language processing.
 
-- [x] Kodlar Klasörlere Ayrıldı
-- [x] İsimler Düzeltildi
-- [ ] NLP Kodları güncellenecek ve değiştirilecek
+This course is a great introductory course that gives you an explanatory introduction to the sub-branches of Deep Learning and how neural networks work, developed and optimized, which allows you to solve more complex AI problems.
+
+With this course, you will understand how the most promising and surprising artificial intelligence projects affect our lives and the underlying technologies. In this course, where the most popular deep learning libraries are used, you will develop projects using Python language, and you will have the skills needed to start your career in this field.
 
 
-## Syllabus
 
-### Lesson 1
-- [Theory: Introduction to AI and Deep Learning](https://github.com/gaih/new-introduction-to-deep-learning/blob/main/Day%201/Deep%20Learning%20-%20Day%201.pptx)
+# Syllabus
 
-### Lesson 2
-- [Theory: Regression Math, Neural Networks and Their Math, Activation Functions and Algebra Math](https://github.com/gaih/new-introduction-to-deep-learning/blob/main/Day%202/Deep%20Learning%20-%20Day%202.pptx)
-- [Hands-on: Building Neural Networks - Fahrenheit to Calculus Conversion](https://github.com/gaih/new-introduction-to-deep-learning/blob/main/Day%202/Day2_Simple_NN_Math_Fahrenheit_Celcius_Conversion.ipynb)
-- [Hands-on: Building Neural Networks - Logical Gates](https://github.com/gaih/new-introduction-to-deep-learning/blob/main/Day%202/Day2_Simple_NN_Math_Logical_Gates.ipynb)
+## Prologue:
+- Welcome To Introduction To Deep Learning Course
+- Why Do We Need Deep Learning Rather Than Machine Learning? 
 
-### Lesson 3
-- [Theory: Activation Functions cont’d, Neural Network Work Principle, Dataset, Regularization and Hyperparameter Tuning](https://github.com/gaih/new-introduction-to-deep-learning/blob/main/Day%203/Deep%20Learning%20-%20Day%203.pptx)
+## Module 1: 
+**Theory:**
+- Introduction to AI and Deep Learning
 
-### Lesson 4
-- [Theory: Convolutional Neural Networks](https://github.com/gaih/new-introduction-to-deep-learning/blob/main/Day%204/Deep%20Learning-%20Day%204.pptx)
-- [Hands-on: Image Classification using CNN](https://github.com/gaih/new-introduction-to-deep-learning/blob/main/Day%204/Day4_Image_Processing_Cifar10.ipynb)
+## Module 2
 
-### Lesson 5
-- [Theory: Recurrent Neural Networks](https://github.com/gaih/new-introduction-to-deep-learning/blob/main/Day%205/Deep%20Learning%20-%20Day%205.pptx)
-- [Hands-on: Text Classification using RNN](https://github.com/gaih/new-introduction-to-deep-learning/blob/main/Day%205/Day5_Natural_Language_Processing_Movie_Review.ipynb)
+**Theory:**
+
+- Regression Math
+- Neural Networks and Their Math
+- Activation Functions
+- Algebra 
+
+**Project:** Building Neural Networks - Fahrenheit to Calculus Conversion & Logical Gates
+
+## Module 3
+**Theory:**
+
+- Activation Functions
+- Neural Network Work Principle
+- Dataset
+- Regularization
+- Hyperparameter Tuning
+
+## Module 4
+**Theory:** 
+- Convolutional Neural Networks
+
+**Project:** 
+- Image Classification using CNN
+
+## Module 5
+**Theory:** 
+- Recurrent Neural Networks
+
+**Project:** 
+- Text Classification using RNN
+
+## Epilogue:
+- Practical Use Of What Has Been Learned, 
+- Further Projects, 
+- What’s Next
+
 
