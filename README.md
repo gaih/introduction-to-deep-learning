@@ -45,19 +45,15 @@ With this course, you will understand how the most promising and surprising arti
 **Theory:** 
 - Convolutional Neural Networks
 
-**Project:** 
-- Image Classification using CNN
+**Project:** Image Classification using CNN
 
 ## Module 5
 **Theory:** 
 - Recurrent Neural Networks
 
-**Project:** 
-- Text Classification using RNN
+**Project:** Text Classification using RNN
 
 ## Epilogue:
-- Practical Use Of What Has Been Learned, 
-- Further Projects, 
+- Practical Use Of What Has Been Learned
+- Further Projects
 - What’s Next
-
-
