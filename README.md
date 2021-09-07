@@ -13,11 +13,11 @@ With this course, you will understand how the most promising and surprising arti
 
 # Syllabus
 
-## Başlangıç:
+## Prologue:
 - Derin Öğrenme’ye Giriş Kursuna Hoş Geldiniz!
 - Yapay Zeka Dünyasında Derin Öğrenme’nin Yeri Nedir? 
 
-## Ders 1: 
+## Lesson 1: 
 - Yapay Zeka’ya Giriş
   - Yapay Zeka Nedir?
   - Yapay Zekada Anlam Ayrımı
@@ -82,7 +82,7 @@ With this course, you will understand how the most promising and surprising arti
   - Epoch
   - Batch Size
 
-## Module 3
+## Lesson 3
 
 - Bilgisayarlı Görü ve Sayısal Görüntü İşleme
   - Görüntü İşleme Nedir?
@@ -118,7 +118,7 @@ With this course, you will understand how the most promising and surprising arti
     - MNIST, ImageNet, CIFAR10
 - Proje: TensorFlow ile Çiçek Görüntülerinin Sınıflandırılması
 
-## Module 4
+## Lesson 4
 - Doğal Dil İşleme (NLP) 
   - Doğal Dil İşleme Nedir?
   - NLP’ye Neden İhtiyaç Duyarız?
@@ -140,7 +140,7 @@ With this course, you will understand how the most promising and surprising arti
   - BERT
 - Proje: Sentiment Analysis Workshop
 
-## Kapanış:
+## Epilogue:
 - Öğrenilenlerin Pratik Kullanımı
 - Gelecekte Yapılabilecek Projeler
 - Bundan Sonra Sizleri Neler Bekliyor?
