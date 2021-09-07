@@ -13,47 +13,134 @@ With this course, you will understand how the most promising and surprising arti
 
 # Syllabus
 
-## Prologue:
-- Welcome To Introduction To Deep Learning Course
-- Why Do We Need Deep Learning Rather Than Machine Learning? 
+## Başlangıç:
+- Derin Öğrenme’ye Giriş Kursuna Hoş Geldiniz!
+- Yapay Zeka Dünyasında Derin Öğrenme’nin Yeri Nedir? 
 
-## Module 1: 
-**Theory:**
-- Introduction to AI and Deep Learning
+## Ders 1: 
+- Yapay Zeka’ya Giriş
+  - Yapay Zeka Nedir?
+  - Yapay Zekada Anlam Ayrımı
+- Makine Öğrenmesi’ne Giriş
+  - Makine Öğrenmesi Nedir?
+  - Makine Öğrenmesi Türleri
+  - Geleneksel Programlama ve Makine Öğrenmesi
+- Denetimli Öğrenme
+  - Denetimli Öğrenme Nedir?
+  - Denetimli Öğrenme Algoritmaları ve Mimarileri
+  - Regresyon ve Sınıflandırma
+  - Makine Öğrenmesi Gerçek Hayat Örnekleri
+- Denetimsiz Öğrenme
+  - Denetimsiz Öğrenme Nedir?
+  - Neden Denetimsiz Öğrenme’ye İhtiyaç Duyarız?
+  - Denetimsiz Öğrenme Algoritmaları
+- Derin Öğrenme
+  - Derin Öğrenme’nin Tarihsel Gelişimi
+  - Yapay Sinir Ağları Nedir ve Nasıl Çalışır?
+  - Derin Öğrenme’nin Günlük Hayattaki Kullanım Alanları
+  - Derin Öğrenme Neden Popüler Oldu?
+  - Derin Öğrenme vs Makine Öğrenmesi
+  - Derin Öğrenme’de Kullanılan Araçlar
+  - Derin Öğrenme Kaynakları
 
-## Module 2
+## Lesson 2: 
 
-**Theory:**
-
-- Regression Math
-- Neural Networks and Their Math
-- Activation Functions
-- Algebra 
-
-**Project:** Building Neural Networks - Fahrenheit to Calculus Conversion & Logical Gates
+- Yapay Sinir Ağları
+  - Yapay Sinir Ağları Nedir?
+  - Nöron Kavramı
+- Temel Regresyon Matematiği
+  - Lineer Regresyon
+  - Lojistik Regresyon
+  - Sigmoid Aktivasyon Fonksiyonu
+- Yapay Sinir Ağları Bileşenleri ve Matematiği
+  - Weight, Bias, Input, Output Kavramları
+  - Veri Türleri ve Tensörler
+  - Matris Cebri (NumPy ile Tensör Operasyonları)
+- Yapay Sinir Ağları Nasıl Çalışır?
+  - Forward Propagation
+  - Back Propagation
+  - Vanishing Gradient Problemi
+  - Dying ReLU problemi
+- Basit Bir Perceptron Kodlaması
+  - Fahrenheit Celsius dönüşümü
+- Aktivasyon Fonksiyonları
+  - Aktivasyon Fonksiyonları Nedir?
+  - Aktivasyon Fonksiyonu Neden Kullanılır?
+  - ReLU, Softmax, Tanh Aktivasyon Fonksiyonları
+-Sinir Ağlarının Optimizasyonu
+  - Derin Öğrenmede İleri ve Geri Yayılım Algoritmaları
+  - Aşırı Öğrenme ve Eksik Öğrenme
+  - Regülarizasyon
+  - Dropout, Early Stopping, Data Augmentation
+- Optimizer
+  - Optimizer Nedir?
+- Yaygın Optimizasyon Algoritmaları
+  - ADAM
+  - Stochastic Gradient Descent
+  - RMSPROP
+- Yapay Sinir Ağında Eğitim Parametleri
+  - Epoch
+  - Batch Size
 
 ## Module 3
-**Theory:**
 
-- Activation Functions
-- Neural Network Work Principle
-- Dataset
-- Regularization
-- Hyperparameter Tuning
+- Bilgisayarlı Görü ve Sayısal Görüntü İşleme
+  - Görüntü İşleme Nedir?
+  - Sinyal ve Gürültü Kavramı
+  - Bilgisayarlı Görü Kullanım Alanları
+  - Özellik Çıkarımı (Feature Extraction)
+- Konvolüsyonel Sinir Ağları (CNN)
+  - CNN Katman Tipleri
+  - Yaygın Aktivasyon Fonksiyonları
+- Ön-eğitilmiş CNN Modelleri
+  - Ön-eğitilmiş Model Nedir ve Ne İşe Yarar?
+  - LeNet-5
+  - VGG16
+  - ResNet50
+- Yinelemeli Sinir Ağları (RNN)
+  - RNN Nedir?
+  - RNN ve Bilgisayarlı Görü
+- Konvolüsyonel Ağlarda Kullanılan Diğer Teknikler
+  - Data Augmentation
+  - Transfer Learning
+  - One-shot Learning
+- Nesne Tanıma (Object Detection)
+  - Nesne Tanıma Nedir?
+  - Nesne Tanımanın Kullanım Alanları
+  - Nesne Tanıma Mimarileri
+    - Faster R-CNN, YOLO, SSD
+  - Nesne Tanıma Veri Setleri
+    - COCO, Pascal VOC()
+- Görüntü Sınıflandırma (Image Classification)
+  - Görüntü Sınıflandırma Nedir?
+  - Görüntüde Nesne Lokalizasyonu
+  - Görüntü Sınıflandırma Veri Setleri
+    - MNIST, ImageNet, CIFAR10
+- Proje: TensorFlow ile Çiçek Görüntülerinin Sınıflandırılması
 
 ## Module 4
-**Theory:** 
-- Convolutional Neural Networks
+- Doğal Dil İşleme (NLP) 
+  - Doğal Dil İşleme Nedir?
+  - NLP’ye Neden İhtiyaç Duyarız?
+  - Doğal Dil İşleme Gerçek Hayat Kullanım Alanları
+  - Text Veri Yapısı ve Diğer Veri Yapılarıyla Kıyaslanması
+- Metin Kodlamaları (Text Encodings)
+  - Bag of Words
+  - Integer Encoding
+  - Word Embedding
+- Yinelemeli Sinir Ağları (RNN)
+  - RNN Matematiği
+  - Neden RNN?
+  - Vanishing Gradient Problemi
+  - LSTM
+  - GRU
+  - Decoder – Encoder Mimarisi
+  - Attention
+  - Transformers
+  - BERT
+- Proje: Sentiment Analysis Workshop
 
-**Project:** Image Classification using CNN
-
-## Module 5
-**Theory:** 
-- Recurrent Neural Networks
-
-**Project:** Text Classification using RNN
-
-## Epilogue:
-- Practical Use Of What Has Been Learned
-- Further Projects
-- What’s Next
+## Kapanış:
+- Öğrenilenlerin Pratik Kullanımı
+- Gelecekte Yapılabilecek Projeler
+- Bundan Sonra Sizleri Neler Bekliyor?
